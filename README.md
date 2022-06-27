@@ -21,13 +21,16 @@ I am a bioinformatian working at the Division of Health Quality Promotion at the
 ### :hammer_and_wrench: Languages and Tools
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jvhagey/jvhagey/blob/main/R.PNG" width="36" height="36" alt="R" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jvhagey/jvhagey/blob/main/linux.jpg" width="36" height="36" alt="linux" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jvhagey/jvhagey/blob/main/snakemake.PNG" width="36" height="36" alt="linux" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-icon-128x128.png" width="36" height="36" alt="linux" /></a> 
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jvhagey/jvhagey/blob/main/nf-core-logo.png" width="36" height="36" alt="linux" /></a>
 </p>
+
+![Nextflow](https://api.iconify.design/file-icons:nextflow.svg?color=%2327ae60&width=30&height=30)
+![Python](https://api.iconify.design/logos:python.svg?width=30&height=30)
+![R](https://api.iconify.design/logos:r-lang.svg?width=30&height=30')
+![Bash](https://api.iconify.design/logos:bash-icon.svg?width=30&height=30)
+
 
 ### Socials
 
