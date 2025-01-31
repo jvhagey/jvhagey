@@ -12,9 +12,9 @@ I am a bioinformatian working at the Division of Health Quality Promotion at the
 
 * 🌍  I'm based in Atlanta, GA
 * 📫  You can contact me at [jvhagey@gmail.com](mailto:jvhagey@gmail.com)
-* 🌱 I’m currently learning Nextflow and Github actions
-* 🔭 I’m currently working on 🔥🐦🔥PHoeNIx: A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens
-<!-- - 🔭 I’m currently working on ... 
+* 🌱 I’m currently writing mostly in Nextflow and Python
+<!-- * 🔭 I’m currently working on 🔥🐦🔥PHoeNIx: A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens
+- 🔭 I’m currently working on ... 
 - ⚡ Fun fact: ... -->
 
 ### :hammer_and_wrench: Languages and Tools
